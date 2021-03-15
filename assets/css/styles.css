@@ -16,33 +16,33 @@ h4 {
     color: rgb(243, 146, 0);
 }
 
-.container-1 {
+.last-heading {
+    margin-bottom: 2em;
+}
+
+.container-2 {
     display: flex;
     justify-content: center;
 }
 
-.last-heading {
-    margin-bottom: 1cm;
+.container-1 {
+    margin-bottom: 3em;
 }
 
-.container-2 img {
+.container-1 img {
     width: 180px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-.container-2 {
-    margin-top: 1cm;
-}
-
 .fa {
     padding: 20px;
     font-size: 30px;
-    width: 30px;
+    width: 32px;
     text-align: center;
     text-decoration: none;
-    margin: 5px 2px;
+    margin: 5px 4px;
     border-radius: 50%;
   }
 
