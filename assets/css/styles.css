@@ -19,15 +19,15 @@ p {
 
 .left-hr,
 .right-hr{
-    width: 10%;
+    width: 120px;
     margin-top: auto;
     margin-bottom: auto;
 }
 
 .fleurons {
-    width: 6%;
+    width: 80px;
     text-align: center;
-    font-size: 32px;
+    font-size: 30px;
 }
 
 .divider {
