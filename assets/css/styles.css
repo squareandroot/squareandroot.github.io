@@ -11,7 +11,7 @@ h4 {
     font-family: serif;
 }
 
-a:hover {
+.orange-link:hover {
     text-decoration: underline rgb(243, 146, 0);
     color: rgb(243, 146, 0);
 }
@@ -34,4 +34,38 @@ a:hover {
 
 .container-2 {
     margin-top: 1cm;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+  
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-instagram {
+    background: #C63388;
+    color: white;
+}
+
+.fa-reddit {
+    background: #ff5700;
+    color: white;
 }
