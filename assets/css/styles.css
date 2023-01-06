@@ -79,26 +79,31 @@ h2 {
 }
 
 .fa-facebook {
-    background: #3B5998;
+    background: #4267B2;
     color: white;
 }
   
 .fa-twitter {
-    background: #55ACEE;
+    background: #1DA1F2;
     color: white;
 }
 
 .fa-instagram {
-    background: #C63388;
+    background: #C13584;
     color: white;
 }
 
 .fa-reddit {
-    background: #ff5700;
+    background: #FF5700;
     color: white;
 }
 
 .fa-github {
     background: grey;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #0077B5;
     color: white;
 }
