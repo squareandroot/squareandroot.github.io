@@ -59,7 +59,12 @@ h2 {
     margin-top: 40px;
 }
 
-.socialmedia > div {
+.socialmedia > .head {
+    display: flex;
+    justify-content: center;
+}
+
+.content > div {
     display: flex;
     justify-content: center;
 }
